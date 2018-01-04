@@ -59,9 +59,20 @@ export class AuthService {
   }
 
   private oAuthLogin(provider: firebase.auth.AuthProvider) {
+    let tokentest: string;
     return this.afAuth.auth.signInWithPopup(provider)
       .then((credential) => {
-        this.notify.update('Welcome to FirebaseOAuth2!!!', 'success');
+
+        if (this.afAuth.auth.currentUser != null) {
+          this.afAuth.auth.currentUser.getIdToken(false).then((token) => {
+          tokentest = token;
+              console.log(tokentest);
+          }
+          );
+          } else {
+          tokentest = 'null';
+        }
+        this.notify.update('Welcome to FirebaseOAuth2!!! with token:' +  tokentest, 'success');
         return this.updateUserData(credential.user);
       })
       .catch((error) => this.handleError(error) );

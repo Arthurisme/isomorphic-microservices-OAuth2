@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pomodorofire:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="pomodorofire-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pomodorofire:war exploded" />
+    </root>
+  </artifact>
+</component>

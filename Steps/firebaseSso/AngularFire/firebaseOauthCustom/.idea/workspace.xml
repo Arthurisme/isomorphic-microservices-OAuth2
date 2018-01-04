@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a179d0a-55e6-4f5c-aaa8-f90524bcd536" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>welcome to</find>
+      <find>app-root</find>
+      <find>sass</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.prod.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/core.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/user-profile/user-profile.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/ui/user-profile/user-profile.component.html" />
+        <option value="$PROJECT_DIR$/src/app/ui/user-profile/user-profile.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/auth.service.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/main.ts" />
+        <option value="$PROJECT_DIR$/src/styles.css" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/e2e/tsconfig.e2e.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="173" />
+    <option name="y" value="35" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="firebaseOauthCustom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firebaseOauthCustom" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Angular/Install/toh-pt6" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/app" />
+      <recent name="$PROJECT_DIR$/src/app/core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/ui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a179d0a-55e6-4f5c-aaa8-f90524bcd536" name="Default" comment="" />
+      <created>1514496767682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514496767682</updated>
+      <workItem from="1514496769014" duration="2317000" />
+      <workItem from="1514499301559" duration="276000" />
+      <workItem from="1514499638478" duration="4014000" />
+      <workItem from="1514567104825" duration="1023000" />
+      <workItem from="1514570836542" duration="624000" />
+      <workItem from="1514578921784" duration="2517000" />
+      <workItem from="1514907498763" duration="773000" />
+      <workItem from="1515079236523" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12225000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="173" y="35" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7334786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/ui/footer-nav/footer-nav.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/notify.service.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/user-profile/user-profile.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/shared/nav.service.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/shared/ui.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/shared.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts" />
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/auth.guard.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/items/shared/item.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/shared/nav.service.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/notify.service.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/footer-nav/footer-nav.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/uploads/shared/upload.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/shared.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/user-profile/user-profile.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/user-profile/user-profile.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/uploads/shared/upload.service.ts" />
+    <entry file="file://$PROJECT_DIR$/firebase.json" />
+    <entry file="file://$PROJECT_DIR$/database.rules.json" />
+    <entry file="file://$PROJECT_DIR$/src/styles/loading.scss" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/loading-spinner/loading-spinner.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/typings.d.ts" />
+    <entry file="file://$PROJECT_DIR$/src/test.ts" />
+    <entry file="file://$PROJECT_DIR$/src/polyfills.ts" />
+    <entry file="file://$PROJECT_DIR$/src/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/src/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/src/styles.scss" />
+    <entry file="file://$PROJECT_DIR$/src/styles.css" />
+    <entry file="file://$PROJECT_DIR$/tslint.json" />
+    <entry file="file://$PROJECT_DIR$/.vscode/settings.json" />
+    <entry file="file://$PROJECT_DIR$/e2e/app.e2e-spec.ts" />
+    <entry file="file://$PROJECT_DIR$/e2e/tsconfig.e2e.json" />
+    <entry file="file://$PROJECT_DIR$/src/app/ui/shared/ui.module.ts" />
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json" />
+    <entry file="file://$PROJECT_DIR$/protractor.conf.js" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/core.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/e2e/app.po.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/auth.service.ts" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/tsconfig.spec.json" />
+    <entry file="file://$PROJECT_DIR$/src/tsconfig.app.json" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+  </component>
+</project>
