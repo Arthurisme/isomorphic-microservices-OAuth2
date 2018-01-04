@@ -16,8 +16,8 @@ public class FirebaseUserDetails implements UserDetails {
 	private final boolean accountNonLocked = true;
 	private final boolean accountNonExpired = true;
 	private final String password = null;
-	private final String username;
-	private final String id;
+//	private final String username;
+//	private final String id;
 	@Override
 	public Collection<? extends GrantedAuthority> getAuthorities() {
 		// TODO Auto-generated method stub

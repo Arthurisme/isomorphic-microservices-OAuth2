@@ -27,6 +27,8 @@ public class CensorServiceImpl implements CensorService {
         /*
             TODO: Here you can do something with text :)
         */
+        text = text.replaceAll(pattern.pattern(), "***");
+
         return text;
     }
 }

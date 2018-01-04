@@ -19,5 +19,7 @@ logging:
         web: INFO
 
 firebase:
-  database-url: <put here your database url>
+  database-url: https://spring-fb.firebaseio.com/
   path: messages
+
+
