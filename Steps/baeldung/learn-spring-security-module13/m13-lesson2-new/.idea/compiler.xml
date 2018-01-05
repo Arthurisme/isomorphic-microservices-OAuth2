@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learn-spring-security-m13-l2-auth-server" />
+        <module name="learn-spring-security-m13-l2-client-new" />
+        <module name="learn-spring-security-m13-l2-resource-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learn-spring-security-m13-l2-auth-server" target="1.8" />
+      <module name="learn-spring-security-m13-l2-client-new" target="1.8" />
+      <module name="learn-spring-security-m13-l2-new" target="1.5" />
+      <module name="learn-spring-security-m13-l2-resource-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

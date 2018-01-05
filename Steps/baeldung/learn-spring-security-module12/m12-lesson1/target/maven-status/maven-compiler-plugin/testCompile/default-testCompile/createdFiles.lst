@@ -1,0 +1,4 @@
+com/baeldung/um/client/security/TokenResponse.class
+com/baeldung/um/client/Paths.class
+com/baeldung/live/AuthorizationLiveTest.class
+com/baeldung/um/client/security/OAuthAuthenticator.class

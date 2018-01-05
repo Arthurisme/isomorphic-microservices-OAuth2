@@ -1,0 +1,14 @@
+com/baeldung/um/validation/PasswordMatches.class
+com/baeldung/um/validation/PasswordMatchesValidator.class
+com/baeldung/um/service/UserService.class
+com/baeldung/um/persistence/UserRepository.class
+com/baeldung/um/validation/EmailExistsException.class
+com/baeldung/um/web/model/User.class
+com/baeldung/um/spring/LssApp1.class
+com/baeldung/um/spring/UmWebMvcConfiguration.class
+com/baeldung/um/service/IUserService.class
+com/baeldung/um/security/SetupBean.class
+com/baeldung/um/spring/AuthorizationServerConfiguration.class
+com/baeldung/um/spring/ResourceServerConfiguration.class
+com/baeldung/um/web/controller/UserRestController.class
+com/baeldung/um/security/MyUserDetailsService.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-security-m13-l2.iml" filepath="$PROJECT_DIR$/learn-spring-security-m13-l2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m13-lesson2-client/learn-spring-security-m13-l2-client.iml" filepath="$PROJECT_DIR$/m13-lesson2-client/learn-spring-security-m13-l2-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m13-lesson2-server/learn-spring-security-m13-l2-server.iml" filepath="$PROJECT_DIR$/m13-lesson2-server/learn-spring-security-m13-l2-server.iml" />
+    </modules>
+  </component>
+</project>

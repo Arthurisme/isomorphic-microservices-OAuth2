@@ -1,0 +1,14 @@
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/web/model/User.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/spring/LssApp1.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/validation/EmailExistsException.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/spring/ResourceServerConfiguration.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/spring/AuthorizationServerConfiguration.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/validation/PasswordMatchesValidator.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/web/controller/UserRestController.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/security/MyUserDetailsService.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/persistence/UserRepository.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/service/IUserService.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/validation/PasswordMatches.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/security/SetupBean.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/service/UserService.java
+/home/arthur/Works/isomorphic-microservices-OAuth2/Steps/baeldung/learn-spring-security-module12/m12-lesson1/src/main/java/com/baeldung/um/spring/UmWebMvcConfiguration.java
