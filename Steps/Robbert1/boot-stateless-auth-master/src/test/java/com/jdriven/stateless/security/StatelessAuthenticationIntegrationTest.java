@@ -19,7 +19,7 @@ import org.springframework.web.client.RestTemplate;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = StatelessAuthentication.class)
+@SpringApplicationConfiguration(classes =  StatelessAuthentication.class)
 @WebAppConfiguration
 @IntegrationTest("server.port:8181")
 public class StatelessAuthenticationIntegrationTest {

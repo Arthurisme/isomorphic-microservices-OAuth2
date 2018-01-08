@@ -5,6 +5,7 @@ buildscript {
   }
   dependencies {
     classpath("org.springframework.boot:spring-boot-gradle-plugin:1.0.2.RELEASE")
+    classpath ("org.springframework:springloaded:1.2.0.RELEASE")
   }
 }
 
@@ -15,25 +16,41 @@ apply plugin: 'spring-boot'
 
 // applicationDefaultJvmArgs = ["-Dserver.port=8080", "-Dserver.host=0.0.0.0", "-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=7000"]
 
-jar {
-  baseName = 'boot-stateless-auth'
-  sourceCompatibility = 1.7
-  targetCompatibility = 1.7
-}
 
-eclipse {
-  jdt {
-    sourceCompatibility = 1.7
-    targetCompatibility = 1.7
+idea {
+  module {
+    inheritOutputDirs = false
+    outputDir = file("$buildDir/classes/main/")
   }
 }
 
+
+sourceCompatibility = 1.7
+version = '1.0'
+
+//jar {
+////  baseName = 'boot-stateless-auth'
+//  sourceCompatibility = 1.7
+//  version = '1.0'
+//
+////  targetCompatibility = 1.7
+//}
+
+//eclipse {
+//  jdt {
+//    sourceCompatibility = 1.7
+//    targetCompatibility = 1.7
+//  }
+//}
+
 repositories {
-  mavenLocal()	
   mavenCentral()
-  maven {url 'http://repo.spring.io/milestone'}
-  maven {url 'http://repo.spring.io/release'}
-  maven {url 'http://repo.spring.io/snapshot'}
+  maven {
+    url "http://repo.spring.io/libs-snapshot-local"
+  }
+  maven {
+    url "http://repo.spring.io/plugin-snapshot"
+  }
 }
 
 dependencies {
@@ -42,8 +59,11 @@ dependencies {
   compile('org.springframework.boot:spring-boot-starter-data-jpa')
   compile('org.springframework.boot:spring-boot-starter-security')
   compile('org.hibernate:hibernate-validator')
+  compile('com.h2database:h2')
 
-  testCompile('org.springframework.boot:spring-boot-starter-test')
 
-  runtime('com.h2database:h2')
+  testCompile("org.springframework.boot:spring-boot-starter-test")
+    compile("org.springframework.boot:spring-boot-devtools")
+
+
 }

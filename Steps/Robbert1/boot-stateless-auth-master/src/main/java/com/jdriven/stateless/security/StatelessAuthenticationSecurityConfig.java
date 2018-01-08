@@ -38,7 +38,7 @@ public class StatelessAuthenticationSecurityConfig extends WebSecurityConfigurer
 				.authorizeRequests()
 
 				//allowing h2 console:
-				.antMatchers("/console/**").permitAll()
+				.antMatchers("/h2-console/**").permitAll()
 								
 				//allow anonymous resource requests
 				.antMatchers("/").permitAll()
