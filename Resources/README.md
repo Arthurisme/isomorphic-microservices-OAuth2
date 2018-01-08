@@ -1,3 +1,3 @@
 # isomorphic-microservices-OAuth2
 
-This repository is based my old Spring-Angular OAuth2 Demo project, with microservices architecture added. 
+This folder is some repository and tutorial for reseach.
